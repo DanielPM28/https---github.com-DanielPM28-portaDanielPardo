@@ -1,0 +1,30 @@
+/* Estilos en App.css o en un archivo separado */
+div {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    width: 300px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+  }
+  
